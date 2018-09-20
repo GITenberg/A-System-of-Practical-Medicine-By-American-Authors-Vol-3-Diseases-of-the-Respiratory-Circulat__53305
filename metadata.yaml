@@ -1,0 +1,31 @@
+_repo: A-System-of-Practical-Medicine-By-American-Authors-Vol-3-Diseases-of-the-Respiratory-Circulat__53305
+_version: 0.0.1
+creator:
+  editors:
+  - agent_name: Starr, Louis
+    birthdate: 1849
+    deathdate: 1925
+    gutenberg_agent_id: '39871'
+    url: http://www.gutenberg.org/2009/agents/39871
+  - agent_name: Pepper, William
+    alias: Pepper, W. (William)
+    birthdate: 1843
+    deathdate: 1898
+    gutenberg_agent_id: '39870'
+    url: http://www.gutenberg.org/2009/agents/39870
+description: ''
+gutenberg_issued: '2016-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53305'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RC'
+- !lcsh 'Medicine -- Practice'
+- GITenberg
+title: "A System of Practical Medicine. By American Authors. Vol. 3\r\nDiseases of\
+  \ the Respiratory, Circulatory, and Hæmatopoietic Systems"
+url: http://www.gutenberg.org/ebooks/53305
